@@ -1,0 +1,15 @@
+{
+  "short_name": "Weather App",
+  "name": "Weather App by Abhijeet",
+  "icons": [
+      {
+          "src": "https://i.pinimg.com/originals/9e/76/44/9e76440e228671d77b9afc06887fab3c.png",
+          "type": "image/png",
+          "sizes": "1024x1024"
+      }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
