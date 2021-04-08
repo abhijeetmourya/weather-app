@@ -1,5 +1,5 @@
 [{
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target" : { "namespace": "android_app", "package_name": "app.netlify.abhijeets_weather_app.twa",
-                   "sha256_cert_fingerprints": ["44:01:E8:75:27:86:F4:1E:D1:C1:D9:A7:8D:C7:09:45:39:E1:81:48:26:7E:EB:67:C2:EE:39:82:6C:D3:8B:31"] }
+                   "sha256_cert_fingerprints": ["FF:BF:16:86:17:49:4E:7B:A3:B8:25:17:B3:D7:BE:BC:C8:78:13:87:D5:D6:5C:FD:01:B3:97:00:72:C6:8B:32"] }
     }]
